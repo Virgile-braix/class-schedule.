@@ -1,5 +1,14 @@
-mon: web design from 9:00am to 12:00pm 
-tue: english from 9:00am to 12:00pm
-wednesday: math from 9:00am to 12:00pm 
-thursday: electric current 9:00am to 12:00pm 
-friday: information system 9:00am to 12:00pm
+MONDAY: 
+Web Design 9:00am  - 12:00pm 
+
+TUESDAY: 
+English  9:00am - 12:00pm
+
+WEDNESDAY: 
+Math  9:00am - 12:00pm 
+
+THURSDAY:
+Electric Current 9:00am - 12:00pm 
+
+FRIDAY: 
+Information System 9:00am - 12:00pm
